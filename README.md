@@ -1,4 +1,4 @@
 ---
-permalink: /404.html
+permalink: /errors/404.html
 ---
 # https://fdfeidao.github.io
